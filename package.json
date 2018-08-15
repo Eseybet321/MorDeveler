@@ -1,0 +1,11 @@
+{
+  "name": "discordbotum",
+  "version": "0.0.1",
+  "description": "eseybetin kölesi",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Esefilbey",
+  "license": "ISC"
+}
